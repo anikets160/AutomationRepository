@@ -8,7 +8,6 @@ INDEX VERSION 1.130+G:\SeleniumRepository\AutomationRepository\.metadata\.plugin
 1553200210.index
 3261789623.index
 879004454.index
-2524321727.index
 1264589921.index
 2086354981.index
 3053625284.index
