@@ -1,5 +1,7 @@
 package qa;
 
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 public class FirstTest {
@@ -10,4 +12,18 @@ public class FirstTest {
 		System.out.println("First Test Updated");
 	}
 
+	@Test
+	public void secondTest()
+	{
+		System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
+		
+		WebDriver driver = new ChromeDriver();
+		
+		driver.get("https://www.google.co.in");
+		
+		System.out.println(driver.getTitle());
+		
+		driver.close();
+		
+	}
 }
