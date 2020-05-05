@@ -85,3 +85,41 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-05-05 12:13:58,186 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\main\resources
 2020-05-05 12:13:58,191 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-05 12:13:58,193 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\test\resources
+2020-05-05 13:05:46,596 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:05:46,598 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\main\resources
+2020-05-05 13:05:46,603 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:05:46,605 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\test\resources
+2020-05-05 13:06:34,811 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:06:34,812 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\main\resources
+2020-05-05 13:06:34,814 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:06:34,814 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\test\resources
+2020-05-05 13:09:30,922 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:09:30,923 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\main\resources
+2020-05-05 13:09:30,934 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:09:30,935 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\test\resources
+2020-05-05 13:09:42,186 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:09:42,186 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\main\resources
+2020-05-05 13:09:42,202 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:09:42,202 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\test\resources
+2020-05-05 13:17:23,655 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:17:23,656 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\main\resources
+2020-05-05 13:17:23,659 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:17:23,659 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\test\resources
+2020-05-05 13:17:36,246 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:17:36,247 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\main\resources
+2020-05-05 13:17:36,250 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 13:17:36,250 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\test\resources
+2020-05-05 15:21:03,144 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:qa:0.0.1-SNAPSHOT @ G:\SeleniumRepository\AutomationRepository\qa\pom.xml.
+2020-05-05 15:21:04,218 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 15:21:04,219 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\main\resources
+2020-05-05 15:21:04,222 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 15:21:04,223 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\test\resources
+2020-05-05 15:22:13,397 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:qa:0.0.1-SNAPSHOT @ G:\SeleniumRepository\AutomationRepository\qa\pom.xml.
+2020-05-05 15:22:14,471 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 15:22:14,472 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\main\resources
+2020-05-05 15:22:14,478 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 15:22:14,478 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\test\resources
+2020-05-05 15:22:35,870 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 15:22:35,871 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\main\resources
+2020-05-05 15:22:35,872 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 15:22:35,873 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SeleniumRepository\AutomationRepository\qa\src\test\resources

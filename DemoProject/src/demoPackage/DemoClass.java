@@ -5,6 +5,7 @@ public class DemoClass {
 	public void demoMethod()
 	{
 		System.out.println("Demo Method");
+		System.out.println("Hello World");
 	}
 	
 }
